@@ -19,7 +19,7 @@ push_swap 프로젝트는 정렬 알고리즘을 활용하여, 스택의 모든 
 
 # 3. What I learned
 
-알고리즘과 시간복잡도의 개념에 대해 학습하였다. 또한, 대표적인 정렬 알고리즘인 빠른정렬의 구현과 최적화에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@sshin/pushswap-Complexity)에 정리하였다.
+알고리즘과 시간복잡도의 개념에 대해 학습하였다. 또한, 대표적인 정렬 알고리즘인 빠른정렬의 구현과 최적화에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@24siefil/pushswap-Complexity)에 정리하였다.
 
 <br/>
 

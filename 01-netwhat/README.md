@@ -18,7 +18,7 @@ netwhat 프로젝트는 컴퓨터 네트워크에 대한 기초지식을 학습�
 
 # 3. What I learned
 
-본 프로젝트를 통해 학습한 세부 지식은 [Velog Link](https://velog.io/@sshin/Netwhat-Network)에 정리하였다.
+본 프로젝트를 통해 학습한 세부 지식은 [Velog Link](https://velog.io/@24siefil/Netwhat-Network)에 정리하였다.
 
 1. IP address
 2. 서브넷 마스크(Subnet mask)와 서브넷팅(Subnetting)

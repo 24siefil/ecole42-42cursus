@@ -18,7 +18,7 @@ minitalk 프로젝트는 UNIX signal을 이용하여 소규모 데이터 교환 
 
 # 3. What I learned
 
-유닉스 시그널을 활용한 프로세스간 통신과 UTF-8 등 문자의 인코딩에 대해 학습하였다. 또한 `signal`, `sigaction` 함수들에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@sshin/minitalk-Inter-Process-Communication)에 정리하였다.
+유닉스 시그널을 활용한 프로세스간 통신과 UTF-8 등 문자의 인코딩에 대해 학습하였다. 또한 `signal`, `sigaction` 함수들에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@24siefil/minitalk-Inter-Process-Communication)에 정리하였다.
 
 <br/>
 

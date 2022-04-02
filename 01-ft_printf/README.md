@@ -31,7 +31,7 @@ int ft_printf(const char *format);
 
 # 4. What I learned
 
-가변함수(Variadic function)의 원리와 구현에 대해 학습하였다. 또한 복잡한 구문분석(Parsing)을 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@sshin/ftprintf-Variadic-Arguments)에 정리하였다.
+가변함수(Variadic function)의 원리와 구현에 대해 학습하였다. 또한 복잡한 구문분석(Parsing)을 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@24siefil/ftprintf-Variadic-Arguments)에 정리하였다.
 
 <br/>
 

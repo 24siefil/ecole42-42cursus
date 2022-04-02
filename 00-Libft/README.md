@@ -13,13 +13,13 @@
 
 # 2. Summary
 
-Libft 프로젝트는 `Libc`를 직접 구현하는 것이다. 42Cursus의 모든 프로젝트는 각각의 필수적인 함수를 제외하고, 외부 함수를 사용하는것이 제한되어 있다. 따라서 필요한 라이브러리 함수는 직접 구현하여 사용해야 한다. 이에따라 본 프로젝트에서 구현한 라이브러리 또한 이후 여러 프로젝트에 활용된다.
+Libft 프로젝트는 `Libc`를 직접 구현하는 것이다. 42Cursus의 모든 프로젝트는 각각의 필수적인 함수를 제외하고, 외부 함수를 사용하는것이 제한되어 있다. 따라서 필요한 라이브러리 함수는 직접 구현하여 사용해야 한다. 이에따라 본 프로젝트에서 구현한 라이브러리 또한 이후 여러 프로젝트에 활용된다ß.
 
 <br/>
 
 # 3. What I learned
 
-표준함수들을 직접 구현하며 함수들의 동작원리에 대해 학습하였다. 또한 표준함수들의 활용과 Makefile, Header file 작성에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link1](https://velog.io/@sshin/Libft-Libc), [Velog Link2](https://velog.io/@sshin/Libft-Makefile-Header-file)에 정리하였다.
+표준함수들을 직접 구현하며 함수들의 동작원리에 대해 학습하였다. 또한 표준함수들의 활용과 Makefile, Header file 작성에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link1](https://velog.io/@24siefil/Libft-Libc), [Velog Link2](https://velog.io/@24siefil/Libft-Makefile-Header-File)에 정리하였다.
 
 <br/>
 

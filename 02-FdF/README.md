@@ -18,7 +18,7 @@ FdF 프로젝트는 3차원 segment의 점들을 연결하여, 굴곡진 지형�
 
 # 3. What I learned
 
-본 프로젝트를 통해 rotation matrix, linear interpolation, Bresenham’s algorithm, isometric projection 등 graphics의 기본에 대해 학습했다. 또한 기본적인 그래픽스 프로그래밍에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@sshin/FdF-Computer-Graphics)에 정리하였다.
+본 프로젝트를 통해 rotation matrix, linear interpolation, Bresenham’s algorithm, isometric projection 등 graphics의 기본에 대해 학습했다. 또한 기본적인 그래픽스 프로그래밍에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@24siefil/FdF-Graphics)에 정리하였다.
 
 <br/>
 

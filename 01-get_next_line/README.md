@@ -32,7 +32,7 @@ int get_next_line(int file_descriptor, char **line);
 
 # 4. What I learned
 
-파일 디스크립터의 원리와 파일 입출력에 대해 학습하였으며, 정적변수의 활용을 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@sshin/getnextline-Static-Variables)에 정리하였다.
+파일 디스크립터의 원리와 파일 입출력에 대해 학습하였으며, 정적변수의 활용을 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@24siefil/getnextline-Static-Variables)에 정리하였다.
 
  <br/>
 

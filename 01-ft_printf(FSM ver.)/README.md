@@ -31,7 +31,7 @@ int ft_printf(const char *format);
 
 # 4. What I learned
 
-Automata 이론의 Finite-State Machine을 적용하는 Design Process에 대해 학습하였다. 또한 이를 활용한 복잡한 구문분석(Parsing), 입력과 예외처리에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@sshin/ftprintf-Finite-State-Machine)에 정리하였다.
+Automata 이론의 Finite-State Machine을 적용하는 Design Process에 대해 학습하였다. 또한 이를 활용한 복잡한 구문분석(Parsing), 입력과 예외처리에 대해 숙달하였다. 본 프로젝트에 대한 세부정보와 선행지식은 [Velog Link](https://velog.io/@24siefil/ftprintf-Finite-State-Machine)에 정리하였다.
 
 <br/>
 
