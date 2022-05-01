@@ -3,7 +3,7 @@
 |  |  |
 | :-: | - |
 | Topic | Static Variables, File I/O |
-| Related | Computer Architecture |
+| Related | Operating Systems |
 | Stack | C |
 | Evaluated | 2021-05-31 |
 | English Subject | [en.subject](https://github.com/24siefil/42SEOUL-42cursus/blob/main/01-get_next_line/subject.pdf) |

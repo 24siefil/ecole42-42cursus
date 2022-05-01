@@ -3,7 +3,7 @@
 |  |  |
 | :-: | - |
 | Topic | Libc, Makefile, relink, Header File |
-| Related | Programming Language Theory |
+| Related | Data Structures |
 | Stack | C |
 | Evaluated | 2021-05-15 |
 | English Subject | [en.subject](https://github.com/24siefil/42SEOUL-42cursus/blob/main/00-Libft/subject.pdf) |
